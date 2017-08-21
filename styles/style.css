@@ -9,6 +9,7 @@ p{margin: auto;
 }
 
 h2{border: 3.6px solid black;
+  width:150px;
   padding: 10px;
   font-weight:bolder;
 }
