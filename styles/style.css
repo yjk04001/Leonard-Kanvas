@@ -1,8 +1,14 @@
 html{background-color: silver;
-  border: 10px;
   font-family: 'Josefin Sans', sans-serif;
 }
 
 p{margin: auto;
   color: blue;
+  padding: 4.5px;
+  border: 5.4px solid black;
+}
+
+h2{border: 3.6px solid black;
+  padding: 10px;
+  font-weight:bolder;
 }
