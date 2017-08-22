@@ -2,10 +2,20 @@ html{background-color: silver;
   font-family: 'Josefin Sans', sans-serif;
 }
 
+body{width: 900px;
+  margin: 0 auto;
+  padding: 0 10px 10px 10px;
+  background-color: orange;
+  border: 5px solid green;
+}
+
 p{margin: auto;
   color: blue;
   padding: 4.5px;
   border: 5.4px solid black;
+  line-height: 1.5;
+  letter-spacing: 1px;
+  font-size: 18px;
 }
 
 h2{border: 3.6px solid black;
@@ -14,11 +24,15 @@ h2{border: 3.6px solid black;
   font-weight:bolder;
 }
 
-h1{border: 3.6px solid black;
+h1{/*border: 3.6px solid black;
   width:215px;
-  padding: 10px;
+  padding: 10px;*/
+  margin: 0;
+  padding: 20px 0;
+  font-size: 60px;
   font-weight:bolder;
-  text-align: right;
+  text-align: center;
+  text-shadow: 3px 3px 1px green;
 }
 
 img{display: block;
